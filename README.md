@@ -19,7 +19,7 @@ Install Biopython:
 pip install biopython
 ```
 
-## Usage:
+## Usage
 ```bash
 python fna_to_faa.py input.fna output.faa
 ```
@@ -29,13 +29,13 @@ Example:
 python fna_to_faa.py chimera_inframe.fna chimera_test.faa
 ```
 
-## Input:
+## Input
 
--FASTA (.fna)
+- FASTA (.fna)
 
 ## Output:
 
--Translated protein FASTA (.faa)
+- Translated protein FASTA (.faa)
 
 ## Author 
 
